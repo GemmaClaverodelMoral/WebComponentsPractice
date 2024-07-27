@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    background-color: #070c24;
+}
+jelly-switch {
+    margin-top: 20px;
+    color: white;
+    font-weight: 800;
+}
